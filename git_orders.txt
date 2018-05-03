@@ -1,0 +1,8 @@
+git init        初始化仓库 
+git add file    添加文件到暂存区
+git commit -m   提交暂存区内的修改
+git status      查看工作区、暂存区、版本库状态
+git diff --file 查看文件差异
+git reset --HARD回退版本
+git reset HEAD file撤销暂存区修改
+git checkout --file丢弃工作区的修改
